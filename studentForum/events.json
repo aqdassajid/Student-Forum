@@ -1,0 +1,58 @@
+[
+  {
+    "category": "Cultural Events",
+    "name": "Annual Cultural Fest",
+    "date": "October 5-7, 2023",
+    "time": "All Day",
+    "venue": "Campus Grounds"
+  },
+  {
+    "category": "Cultural Events",
+    "name": "Dance Showcase",
+    "date": "September 18, 2023",
+    "time": "6:00 PM",
+    "venue": "Performing Arts Theater"
+  },
+  {
+    "category": "Academic Events",
+    "name": "Guest Lecture on Quantum Physics",
+    "date": "September 25, 2023",
+    "time": "2:00 PM",
+    "venue": "Lecture Hall 103"
+  },
+  {
+    "category": "Academic Events",
+    "name": "Mathematics Olympiad",
+    "date": "October 12, 2023",
+    "time": "9:00 AM",
+    "venue": "Mathematics Building"
+  },
+  {
+    "category": "Cultural Events",
+    "name": "Quann Cultural Fest",
+    "date": "October 15-27, 2023",
+    "time": "All Day",
+    "venue": "Campus Grounds"
+  },
+  {
+    "category": "Cultural Events",
+    "name": "Solo Dance ",
+    "date": "September 28, 2023",
+    "time": "6:00 PM",
+    "venue": "Performing Arts Theater"
+  },
+  {
+    "category": "Academic Events",
+    "name": "Guest Lecture on Web 3.0",
+    "date": "September 15, 2023",
+    "time": "2:00 PM",
+    "venue": "Lecture Hall 103"
+  },
+  {
+    "category": "Academic Events",
+    "name": "Physics Olympiad",
+    "date": "October 15, 2023",
+    "time": "9:00 AM",
+    "venue": "Admin Building"
+  }
+]

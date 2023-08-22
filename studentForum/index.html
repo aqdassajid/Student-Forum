@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Student Forum</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Student Forum</h1>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="#events">Events</a></li>
+        <li><a href="#lost-found">Lost & Found</a></li>
+        <li><a href="#queries">General Queries</a></li>
+        <li><a href="https://www.dsce.edu.in/">College Website</a></li>
+      </ul>
+    </nav>
+
+    <section id="events">
+      <h2>Upcoming Events</h2>
+
+      <div class="event-section">
+        <h3>Cultural Events</h3>
+        <div class="event-category cultural-events">
+          <!-- Cultural events will be displayed here -->
+        </div>
+      </div>
+
+      <div class="event-section">
+        <h3>Academic Events</h3>
+        <div class="event-category academic-events">
+          <!-- Academic events will be displayed here -->
+        </div>
+      </div>
+    </section>
+
+    <section id="lost-found">
+      <h2>Lost & Found</h2>
+      <!-- Lost & Found content goes here -->
+    </section>
+
+    <section id="queries">
+      <h2>General Queries</h2>
+      <!-- Query submission form -->
+      <form id="queryForm">
+        <label for="query">Submit Your Query:</label>
+        <textarea id="query" name="query" rows="4" required></textarea>
+        <button type="submit">Submit</button>
+      </form>
+      <!-- Display submitted queries in a grid -->
+      <div class="query-grid" id="queryGrid">
+        <!-- Query items will be displayed here -->
+      </div>
+    </section>
+
+    <footer>
+      <p>&copy; 2023 Student Forum. All rights reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
